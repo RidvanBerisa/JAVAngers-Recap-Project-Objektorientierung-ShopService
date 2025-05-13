@@ -7,7 +7,6 @@ import java.time.Instant;
 @Value
 @AllArgsConstructor
 @With
-
 public class Order{
         String id;
         List<Product> products;
